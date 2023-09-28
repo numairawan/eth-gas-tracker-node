@@ -1,0 +1,26 @@
+{
+  "name": "eth-gas-tracker-node",
+  "version": "1.0.0",
+  "description": "Nodejs module to retrieve live ethereum gas prices.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumairAwan/eth-gas-tracker-node.git"
+  },
+  "keywords": [
+    "ethereum",
+    "eth gas tracker",
+    "ethereum tracker",
+    "gas tracker",
+    "eth gas tracker"
+  ],
+  "author": "Numair Awan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NumairAwan/eth-gas-tracker-node/issues"
+  },
+  "homepage": "https://github.com/NumairAwan/eth-gas-tracker-node#readme",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
