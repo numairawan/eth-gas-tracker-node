@@ -28,7 +28,7 @@ npm i eth-gas-tracker-node
 To retrieve live Ethereum gas prices, follow these simple steps:
 
 ```js
-const EthereumGasPrice = require('ethereum-gas-price');
+const EthereumGasPrice = require('eth-gas-tracker-node');
 
 const gasPriceTracker = new EthereumGasPrice();
 
