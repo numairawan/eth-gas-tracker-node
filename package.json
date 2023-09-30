@@ -1,6 +1,6 @@
 {
   "name": "eth-gas-tracker-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodejs module to retrieve live ethereum gas prices.",
   "main": "index.js",
   "repository": {
