@@ -2,6 +2,7 @@
     <img src="https://raw.githubusercontent.com/NumairAwan/eth-gas-tracker-node/main/art/screenshot.png" width="600" alt="Eth Gas Tracker Nodejs">
     <p align="center">
         <a href="http://hits.dwyl.com/NumairAwan/eth-gas-tracker-node"><img alt="Total Hits" src="https://hits.dwyl.com/NumairAwan/eth-gas-tracker-node.svg?style=flat-square"></a>
+        <a href="https://www.npmjs.com/package/eth-gas-tracker-node"><img alt="Downloads" src="https://img.shields.io/npm/dt/eth-gas-tracker-node"></a>
         <a href="https://www.npmjs.com/package/eth-gas-tracker-node"><img alt="Version" src="https://img.shields.io/npm/v/eth-gas-tracker-node?logo=npm&style=flat-square"></a>
         <a href="https://github.com/NumairAwan/eth-gas-tracker-node"><img alt="License" src="https://img.shields.io/github/license/numairawan/eth-gas-tracker-node"></a>
     </p>
